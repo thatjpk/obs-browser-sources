@@ -11,3 +11,9 @@ List of sources and short descriptions of each. See the READMEs in each
 subdirectory for more documentation.
 
  - `clock-source` - A live timestamp
+
+### gh-pages
+
+The master branch of this repository is periodically merged into `gh-pages`, so
+you can load widgets directly from github.  Like
+[this](http://thatjpk.github.io/obs-browser-sources/clock-source/index.html).
