@@ -17,3 +17,5 @@ subdirectory for more documentation.
 The master branch of this repository is periodically merged into `gh-pages`, so
 you can load widgets directly from github.  Like
 [this](http://thatjpk.github.io/obs-browser-sources/clock-source/index.html).
+However, if you want stability, it's still advised to download and use the files
+locally.
