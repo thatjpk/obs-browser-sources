@@ -1,0 +1,23 @@
+/*
+ * style.css
+ */
+
+body {
+
+}
+
+#time {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    /* font-size: 80px;*/
+    font-size: 7.2vw;
+    color: gray;
+    font-weight: bold;
+    font-family: Sans-serif;
+    text-align: center;
+    /*-webkit-text-stroke-width: 3px;*/
+    /*-webkit-text-stroke-color: black;*/
+}
