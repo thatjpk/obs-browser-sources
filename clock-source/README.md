@@ -6,5 +6,6 @@ into your scene by changing the rendering size of the browser source.
 
 
 TODOs:
-    - Make font, color, etc configurable through url params or config file.
-    - Make timestamp format configurable through url params or config file.
+
+- Make font, color, etc configurable through url params or config file.
+- Make timestamp format configurable through url params or config file.
